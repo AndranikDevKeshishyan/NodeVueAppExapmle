@@ -20,6 +20,9 @@ Installation instructions:
 6) Initiate the NodeJS server by typing following command: 
 
     npm run dev           : runs server in development mode
+    
     npm start             : runs server in production mode 
+    
     npm run start:cluster : npm start runs server in production (cluster) mode
+    
     npm run test          : runs unit tests
