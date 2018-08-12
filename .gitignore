@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+tmp
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
+node_modules
+npm-debug.log
+
+# SASS temp files
+.sass-cache
+
+# Bower
+.bower-*/
+bower_components
+
+# Secret file
+config.js
+config.json
+
+# Data folder
+data
+
+# Typings definitions
+typings
