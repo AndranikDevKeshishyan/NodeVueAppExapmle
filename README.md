@@ -1,5 +1,6 @@
 # NodeVueAppExapmle
-simple App with advanced container with Node.js
+
+Simple App with advanced container with Node.js
 
 Installation instructions:
 
@@ -9,15 +10,15 @@ Installation instructions:
 
 3) You need to install MongoDB database and also start the server of MongoDB.
 
-4) Go to the project folder >> config >> DB.js file and change the URI according to your database connection and credentials. : Start the server: npm start.
+4) Go to the project folder >> package.json file and change the db URI according to your database connection and credentials. 
 
-5) cd project folder 
+5) npm install
 
-6) npm install
+6) cd project folder 
 
-5) development server will start at http://localhost:3000
+7) development server will start at http://localhost:3000
 
-6) Initiate the NodeJS server by typing following command: 
+8) Initiate the NodeJS server by typing following command: 
 
     npm run dev           : runs server in development mode
     
